@@ -1,4 +1,3 @@
-<img width="717" height="1600" alt="googleMapScreenShot" src="https://github.com/user-attachments/assets/4fbeef45-006a-493e-be6f-76991a07b6d5" />
 # Google Maps Compose
 
 A modern Android application demonstrating advanced **Google Maps** integration using **Jetpack Compose**. This project serves as a comprehensive example of how to implement real-time location features, routing, and data visualization on a map.
@@ -72,7 +71,8 @@ A modern Android application demonstrating advanced **Google Maps** integration 
 
 | Map View | Route Visualization | Location Clustering |
 |:---:|:---:|:---:|
-| ![Map](https://via.placeholder.com/200) | ![Route](https://via.placeholder.com/200) | ![Cluster](https://via.placeholder.com/200) |
+| ![Map](<img width="717" height="1600" alt="googleMapScreenShot" src="https://github.com/user-attachments/assets/4fbeef45-006a-493e-be6f-76991a07b6d5" />
+) | ![Route](https://via.placeholder.com/200) | ![Cluster](https://via.placeholder.com/200) |
 
 ## ? License
 
