@@ -1,4 +1,4 @@
-package com.example.googlemapcompose
+package com.example.googlemapcompose.Utils
 
 import android.annotation.SuppressLint
 import android.content.Context

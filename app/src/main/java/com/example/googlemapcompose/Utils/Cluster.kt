@@ -1,4 +1,4 @@
-package com.example.googlemapcompose
+package com.example.googlemapcompose.Utils
 
 import com.google.android.gms.maps.model.LatLng
 import com.google.maps.android.clustering.ClusterItem
