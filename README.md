@@ -2,7 +2,7 @@
 
 A modern Android application demonstrating advanced **Google Maps** integration using **Jetpack Compose**. This project serves as a comprehensive example of how to implement real-time location features, routing, and data visualization on a map.
 
-## ? Features
+## Features
 
 - **Jetpack Compose UI**: Built entirely with modern declarative UI components.
 - **Google Maps Integration**: Uses the official `maps-compose` library for seamless map rendering.
@@ -24,7 +24,7 @@ A modern Android application demonstrating advanced **Google Maps** integration 
     - **Repository Pattern**: Centralized data management.
 - **Networking**: **Retrofit** and **Gson** for robust API communication.
 
-## ? Tech Stack
+## Tech Stack
 
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose
@@ -34,7 +34,7 @@ A modern Android application demonstrating advanced **Google Maps** integration 
 - **Maps**: Google Maps SDK, Maps Compose Library
 - **Async**: Kotlin Coroutines & Flow
 
-## ? Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - Android Studio Ladybug (or newer)
@@ -58,7 +58,7 @@ A modern Android application demonstrating advanced **Google Maps** integration 
 3. **Build and Run:**
    Sync the project with Gradle files and run the `app` module on an emulator or physical device.
 
-## ? Project Structure
+## Project Structure
 
 - `compose/`: Contains the UI components and map screens.
 - `network/`: Retrofit instances and API service definitions.
@@ -67,12 +67,12 @@ A modern Android application demonstrating advanced **Google Maps** integration 
 - `Repository.kt`: Handles data fetching logic.
 - `GoogleMapViewModel.kt`: Manages UI state and business logic.
 
-## ? Screenshots
+## Screenshots
 
 <img width="717" height="1600" alt="googleMapScreenShot" src="https://github.com/user-attachments/assets/4fbeef45-006a-493e-be6f-76991a07b6d5" />
 
 
-## ? License
+## License
 
 ```text
 Copyright 2026 Prem
